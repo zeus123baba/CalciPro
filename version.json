@@ -1,8 +1,8 @@
 {
   "results": [
     {
-      "version": "1.0", 
-      "trackViewUrl": "https://apps.apple.com/app/idYOUR_APP_ID" 
+      "version": "1.1", 
+      "trackViewUrl": "https://github.com/flutter/flutter/issues/138669" 
     }
   ]
 }
