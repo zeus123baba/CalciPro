@@ -1,0 +1,8 @@
+{
+  "results": [
+    {
+      "version": "1.0.2",  // Replace with the current version of your app
+      "trackViewUrl": "https://apps.apple.com/app/idYOUR_APP_ID"  // Replace with your App Store URL
+    }
+  ]
+}
